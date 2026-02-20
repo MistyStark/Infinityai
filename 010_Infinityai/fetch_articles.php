@@ -5,7 +5,7 @@
  */
 
 // 1. 設定ファイルを読み込む
-$config_file = __DIR__ . '/mcp-servers.json';
+$config_file = dirname(__DIR__) . '/mcp-servers.json';
 if (!file_exists($config_file)) {
     die("Error: mcp-servers.json not found.\n");
 }
@@ -46,8 +46,8 @@ $posts = json_decode($response, true);
 // 3. 結果を表示
 echo "--- Latest 3 Articles ---\n";
 foreach ($posts as $post) {
-    echo "Title: " . $post['title']['rendered'] . "\n";
-    echo "Date:  " . $post['date'] . "\n";
-    echo "Link:  " . $post['link'] . "\n";
+    echo "Title:   " . $post['title']['rendered'] . "\n";
+    echo "Full Content (HTML):\n";
+    echo $post['content']['rendered'] . "\n";
     echo "-------------------------\n";
 }

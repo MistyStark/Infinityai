@@ -19,7 +19,7 @@ async function fetchLatestMissions() {
     });
 
     try {
-        const response = await fetch('api_wrapper.php');
+        const response = await fetch('010_Infinityai/api_wrapper.php');
 
         if (!response.ok) {
             throw new Error(`HTTP Error: ${response.status}`);

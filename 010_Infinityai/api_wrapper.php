@@ -8,7 +8,7 @@ header('Content-Type: application/json');
 header('Access-Control-Allow-Origin: *');
 
 // 1. 設定ファイルを読み込む
-$config_file = __DIR__ . '/mcp-servers.json';
+$config_file = dirname(__DIR__) . '/mcp-servers.json';
 if (!file_exists($config_file)) {
     http_response_code(500);
     echo json_encode(['error' => 'mcp-servers.json not found']);
