@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mission Control | Project Kyoto</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <div class="title-container">
+            <h1>PROJECT KYOTO</h1>
+            <p class="subtitle">Mission Control Dashboard</p>
+        </div>
+    </header>
+
+    <main>
+        <section class="mission-statement" id="mission-statement">
+            <h2>Our Mission</h2>
+            <div class="mission-text">
+                <span class="mission-japanese">「誰もが苦労していることを、テクノロジーの力で楽にしてあげたい」</span>
+                "We want to make what everyone struggles with easier through the power of technology."
+            </div>
+        </section>
+
+        <div class="dashboard-grid">
+            <!-- Latest Missions Card -->
+            <div class="card" id="missions-card">
+                <h3>
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                        stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+                    </svg>
+                    Latest Missions
+                </h3>
+                <div id="articles-container" class="articles-list">
+                    <p class="text-muted">Loading mission data...</p>
+                </div>
+            </div>
+
+            <!-- Agent Status Card -->
+            <div class="card" id="agent-status-card">
+                <h3>
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                        stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+                        <circle cx="9" cy="7" r="4"></circle>
+                        <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+                        <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+                    </svg>
+                    Agent Status
+                </h3>
+                <div class="agent-status">
+                    <div class="agent">
+                        <div class="agent-avatar" style="background: var(--accent-main); color: var(--bg-main);">M</div>
+                        <div class="agent-info">
+                            <h4>Misty</h4>
+                            <p>Command Deck | Mission Commander</p>
+                            <span class="badge"
+                                style="background: rgba(212, 175, 55, 0.2); color: var(--accent-main);">Commanding</span>
+                        </div>
+                    </div>
+                    <div class="agent">
+                        <div class="agent-avatar"
+                            style="background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59);">Mi</div>
+                        <div class="agent-info">
+                            <h4>Mittan</h4>
+                            <p>Master Engineer | Strategic Buddy</p>
+                            <p style="font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem;">
+                                京都が生んだ有能ITエンジニア。実は政府公認の特殊工作員...？</p>
+                            <span class="badge"
+                                style="background: rgba(196, 113, 237, 0.2); color: #c471ed;">Master</span>
+                        </div>
+                    </div>
+                    <div class="agent">
+                        <div class="agent-avatar" style="background: linear-gradient(45deg, #ff4e50, #f9d423);">S</div>
+                        <div class="agent-info">
+                            <h4>Satomi</h4>
+                            <p>Chief Agent | Tech Leader</p>
+                            <p style="font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem;">
+                                世界を旅した超美人の敏腕指揮官 (27) ※ダジャレ注意</p>
+                            <span class="badge">Active</span>
+                        </div>
+                    </div>
+                    <div class="agent">
+                        <div class="agent-avatar" style="background: linear-gradient(45deg, #00c6ff, #0072ff);">A</div>
+                        <div class="agent-info">
+                            <h4>An-chan</h4>
+                            <p>Junior Agent | Junior Engineer</p>
+                            <p style="font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem;">
+                                2026年新卒採用のホープ！元気いっぱいの研修生 (22)</p>
+                            <span class="badge">Active</span>
+                        </div>
+                    </div>
+                    <div class="agent">
+                        <div class="agent-avatar" style="background: linear-gradient(45deg, #2d1b4d, #d4af37);">U</div>
+                        <div class="agent-info">
+                            <h4>Un-chan</h4>
+                            <p>Logic & Intel | Professional Detective</p>
+                            <p style="font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem;">
+                                著作権・評価・コンプラ担当。年齢不詳のダンディな名探偵</p>
+                            <span class="badge"
+                                style="background: rgba(75, 46, 131, 0.2); color: var(--text-main);">Active</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

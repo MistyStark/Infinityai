@@ -1,0 +1,14 @@
+# Security Rule: NEVER commit mcp-servers.json
+mcp-servers.json
+
+# Binaries & Runtimes
+php-bin/
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
+*.swp
