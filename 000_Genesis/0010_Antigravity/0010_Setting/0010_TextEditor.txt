@@ -1,0 +1,4 @@
+A．フォント
+2026年 2月21日（土）　11:30
+変更前：Consolas, 'Courier New', monospace
+変更後：'Yu Gothic', Consolas, monospace

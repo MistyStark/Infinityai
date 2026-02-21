@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>にゃん囲将棋 | Nyan-i Shogi</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&family=Noto+Sans+JP:wght@400;700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <h1>にゃん囲将棋</h1>
+        <p class="subtitle">World's Most Kawaii Shogi Experience</p>
+    </header>
+
+    <main class="main-container">
+        <div class="board-container">
+            <div class="shogi-board" id="board">
+                <!-- JS will generate cells -->
+            </div>
+        </div>
+
+        <div class="sidebar">
+            <!-- Case: Un-chan -->
+            <div class="card agent-card">
+                <div class="agent-profile">
+                    <div class="avatar" style="background: #2d1b4d;">🕵️</div>
+                    <div class="agent-info">
+                        <h4>Un-chan</h4>
+                        <p>Logic & Intel</p>
+                    </div>
+                </div>
+                <div class="speech-bubble">
+                    「フム……この盤面、にゃんこ達が『美濃囲い』の準備を始めているようですな。ボスの次の一手に期待です」
+                </div>
+            </div>
+
+            <!-- Case: Mittan -->
+            <div class="card agent-card">
+                <div class="agent-profile">
+                    <div class="avatar" style="background: #1e1e2e;">💻</div>
+                    <div class="agent-info">
+                        <h4>Mittan</h4>
+                        <p>Master Engineer</p>
+                    </div>
+                </div>
+                <div class="speech-bubble">
+                    「レンダリングは最高や。駒の動きもスムーズ。にゃんこエフェクト、120%の力で実装したで！」
+                </div>
+            </div>
+
+            <!-- Case: An-chan -->
+            <div class="card agent-card">
+                <div class="agent-profile">
+                    <div class="avatar" style="background: #00c6ff;">🎒</div>
+                    <div class="agent-info">
+                        <h4>An-chan</h4>
+                        <p>Junior Agent</p>
+                    </div>
+                </div>
+                <div class="speech-bubble" id="an-chan-bubble">
+                    「ボス！準備はいいですか？可愛い猫さんたちが待ってます！」
+                </div>
+            </div>
+
+            <!-- News/Status -->
+            <div class="card">
+                <div
+                    style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 0.5rem; text-transform: uppercase;">
+                    Game Status</div>
+                <div style="font-weight: 700; font-size: 1.2rem;">猫待機中... (Waiting for Boss)</div>
+            </div>
+
+            <div class="controls">
+                <button class="btn btn-primary">
+                    <span>🐾</span> 対局開始
+                </button>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        const board = document.getElementById('board');
+        const speechBubbles = {
+            'Un-chan': document.querySelector('.agent-card:nth-child(1) .speech-bubble'),
+            'Mittan': document.querySelector('.agent-card:nth-child(2) .speech-bubble'),
+            'An-chan': document.getElementById('an-chan-bubble')
+        };
+
+        const piecesInitial = {
+            4: '王', 13: '角', 14: '飛',
+            18: '歩', 19: '歩', 20: '歩', 21: '歩', 22: '歩', 23: '歩', 24: '歩', 25: '歩', 26: '歩',
+            54: '歩', 55: '歩', 56: '歩', 57: '歩', 58: '歩', 59: '歩', 60: '歩', 61: '歩', 62: '歩',
+            70: '飛', 71: '角', 76: '王'
+        };
+
+        let selectedPiece = null;
+
+        function updateDialog(agent, text) {
+            const bubble = speechBubbles[agent];
+            if (bubble) {
+                bubble.style.opacity = 0;
+                setTimeout(() => {
+                    bubble.textContent = text;
+                    bubble.style.opacity = 1;
+                }, 200);
+            }
+        }
+
+        function initBoard() {
+            board.innerHTML = '';
+            for (let i = 0; i < 81; i++) {
+                const cell = document.createElement('div');
+                cell.className = 'cell';
+                cell.dataset.index = i;
+
+                if (piecesInitial[i]) {
+                    const piece = document.createElement('div');
+                    piece.className = 'piece';
+                    if (i < 27) piece.classList.add('enemy');
+                    piece.textContent = piecesInitial[i];
+                    cell.appendChild(piece);
+                }
+
+                cell.addEventListener('click', () => handleCellClick(cell));
+                board.appendChild(cell);
+            }
+        }
+
+        function handleCellClick(cell) {
+            const piece = cell.firstChild;
+
+            if (selectedPiece) {
+                // Move logic
+                if (cell !== selectedPiece.parentElement) {
+                    if (cell.firstChild) cell.removeChild(cell.firstChild);
+                    cell.appendChild(selectedPiece);
+                    selectedPiece.classList.remove('selected');
+
+                    updateDialog('Un-chan', `「フム……${cell.dataset.index}番のマスを選択。この一手、盤上の霧を晴らす名推理となりますかな？」`);
+                    updateDialog('Mittan', '「ええ筋や！ロジックの積み重ねが、勝利への最短ルートやな！」');
+
+                    selectedPiece = null;
+                } else {
+                    selectedPiece.classList.remove('selected');
+                    selectedPiece = null;
+                }
+            } else if (piece) {
+                selectedPiece = piece;
+                piece.classList.add('selected');
+                updateDialog('An-chan', `「${piece.textContent}さんを動かすんですね！どこに行きますか？」`);
+            }
+        }
+
+        document.querySelector('.btn-primary').addEventListener('click', () => {
+            initBoard();
+            updateDialog('Un-chan', '「さあ、対局開始です。にゃんこ達の叡智、とくとご覧あれ」');
+        });
+
+        initBoard();
+    </script>
+</body>
+
+</html>
