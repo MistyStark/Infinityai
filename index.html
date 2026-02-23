@@ -31,13 +31,29 @@
         <div class="dashboard-grid">
             <!-- Latest Missions Card -->
             <div class="card" id="missions-card">
-                <h3>
-                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                        stroke-linecap="round" stroke-linejoin="round">
-                        <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
-                    </svg>
-                    Latest Missions
-                </h3>
+                <div class="card-header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem;">
+                    <h3 style="margin-bottom: 0;">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                            stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+                        </svg>
+                        Latest Missions
+                    </h3>
+                    <button id="btn-new-mission" class="btn-primary-sm">
+                        + New Mission
+                    </button>
+                </div>
+                
+                <!-- New Mission Form (Hidden by default) -->
+                <div id="new-mission-form" class="mission-form-container" style="display: none;">
+                    <input type="text" id="mission-title" placeholder="Mission Title..." class="form-input">
+                    <textarea id="mission-content" placeholder="Mission Details..." class="form-textarea"></textarea>
+                    <div class="form-actions">
+                        <button id="btn-post-mission" class="btn-accent">Deploy Intel</button>
+                        <button id="btn-cancel-mission" class="btn-text">Abort</button>
+                    </div>
+                </div>
+
                 <div id="articles-container" class="articles-list">
                     <p class="text-muted">Loading mission data...</p>
                 </div>
