@@ -23,74 +23,135 @@ $image_urls = [
 ];
 
 $content = '
+<!-- wp:paragraph -->
 <p>Antigravity へようこそ！<br />AI と一緒に最高の未来を創るための、最初の一歩をはんなりと案内するで。🍵</p>
+<!-- /wp:paragraph -->
 
+<!-- wp:heading {"level":4} -->
 <h4>1. ダウンロードとインストール</h4>
-<p>まずは公式サイト <a href="https://antigravity.google" target="_blank">https://antigravity.google</a> にアクセスしてな。</p>
+<!-- /wp:heading -->
 
-<div style="text-align: center; margin: 20px 0;">
-    <img src="'.$image_urls['0010_Antigravity'].'" alt="Antigravity Official Site" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-</div>
+<!-- wp:paragraph -->
+<p>まずは公式サイトにアクセスしてな。</p>
+<!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+<p><a href="https://antigravity.google" target="_blank" rel="noopener"><strong>👉 Google Antigravity 公式サイトはこちら</strong></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="'.$image_urls['0010_Antigravity'].'" alt="Antigravity Official Site" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
 <ul>
     <li><strong>自分のPCに合ったものを選ぼう</strong>: Macならチップの種類、Windowsならx64を選べば100億点満点や。</li>
     <li><strong>上書きが基本！</strong>: 古いバージョンがあっても、そのまま上書きインストールするのが一番安全やで。</li>
 </ul>
+<!-- /wp:list -->
 
-<div style="text-align: center; margin: 20px 0;">
-    <img src="'.$image_urls['0020_Download'].'" alt="Download Antigravity" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-</div>
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="'.$image_urls['0020_Download'].'" alt="Download Antigravity" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/></figure>
+<!-- /wp:image -->
 
+<!-- wp:heading {"level":4} -->
 <h4>2. 初心者が迷わない「4つの初期設定」</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
 <p>起動した後の英語画面、これを選べば間違いなしや！</p>
+<!-- /wp:paragraph -->
 
-<ul>
-    <li><strong>① Choose setup flow</strong>: 迷わず <strong>『Start fresh』</strong> を選んでな。
-        <div style="text-align: center; margin: 20px 0;">
-            <img src="'.$image_urls['0030_ChooseSetupFlow'].'" alt="Choose setup flow" style="max-width: 100%; border-radius: 8px;">
-        </div>
-    </li>
-    <li><strong>② Theme</strong>: おすすめは <strong>『Tokyo Night』</strong>。未来的でテンション上がるで！
-        <div style="text-align: center; margin: 20px 0;">
-            <img src="'.$image_urls['0040_Theme'].'" alt="Choose theme" style="max-width: 100%; border-radius: 8px;">
-        </div>
-    </li>
-    <li><strong>③ Agent設定</strong>: <strong>『Review-driven development』</strong> を選択してな。
-        <div style="text-align: center; margin: 20px 0;">
-            <img src="'.$image_urls['0050_Agent'].'" alt="Agent settings" style="max-width: 100%; border-radius: 8px;">
-        </div>
-    </li>
-    <li><strong>④ Configure Your Editor</strong>: 基本はデフォルトのままで「Next」をポチッと！
-        <div style="text-align: center; margin: 20px 0;">
-            <img src="'.$image_urls['060_Configure'].'" alt="Configure Your Editor" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-        </div>
-    </li>
-</ul>
+<!-- wp:heading {"level":5} -->
+<h5>① Choose setup flow</h5>
+<!-- /wp:heading -->
 
+<!-- wp:paragraph -->
+<p>迷わず <strong>『Start fresh』</strong> を選んでな。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="'.$image_urls['0030_ChooseSetupFlow'].'" alt="Choose setup flow" style="max-width: 100%; border-radius: 8px;"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":5} -->
+<h5>② Theme</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>おすすめは <strong>『Tokyo Night』</strong>。未来的でテンション上がるで！</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="'.$image_urls['0040_Theme'].'" alt="Choose theme" style="max-width: 100%; border-radius: 8px;"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":5} -->
+<h5>③ Agent設定</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>『Review-driven development』</strong> を選択してな。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="'.$image_urls['0050_Agent'].'" alt="Agent settings" style="max-width: 100%; border-radius: 8px;"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":5} -->
+<h5>④ Configure Your Editor</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>基本はデフォルトのままで「Next」をポチッと！</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="'.$image_urls['060_Configure'].'" alt="Configure Your Editor" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4} -->
 <h4>3. Googleアカウント連携</h4>
-<p>3つの難関を越えれば、あとは簡単や！🍵</p>
+<!-- /wp:heading -->
 
-<div style="background-color: #fff4f4; border-left: 5px solid #ff5252; padding: 15px; margin: 20px 0;">
-    <p style="margin: 0; font-weight: bold; color: #d32f2f;">⚠️ 【超重要】Workspaceアカウントは現在非対応！</p>
-    <p style="margin: 10px 0 0 0;">必ず <strong>個人のGmailアカウント（@gmail.com）</strong> を用意してログインしような。</p>
-</div>
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>3つの難関を越えれば、あとは簡単や！🍵</p><cite>みったん</cite></blockquote>
+<!-- /wp:quote -->
 
+<!-- wp:paragraph {"backgroundColor":"pale-pink"} -->
+<p class="has-pale-pink-background-color has-background"><strong>⚠️ 【超重要】Workspaceアカウントは現在非対応！</strong><br>必ず <strong>個人のGmailアカウント（@gmail.com）</strong> を用意してログインしような。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
 <h4>4. 仕上げの魔法：日本語化の手順</h4>
-<p>たった1分の魔法で日本語の快適な画面に変えられるで！🍵</p>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>たった1分の魔法で日本語の快適な画面に変えられるよ！！🚀🚀</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
 <ol>
     <li>左側の「Extensions」アイコンを押す。</li>
     <li>「<strong>Japanese</strong>」で検索して、地球儀アイコンのものを Install。</li>
     <li>「Restart」ボタンを押せば完成や！✨</li>
 </ol>
+<!-- /wp:list -->
 
-<hr>
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
 <p>これだけで、君の PC は最新前線の AI 開発基地に早変わりや。<br />Misty と一緒に、最高の大発見を見つけにいこな！🍵✨🚀</p>
+<!-- /wp:paragraph -->
 ';
 
 $post_data = [
     'title'   => $article_title,
     'content' => $content,
-    'status'  => 'publish'
+    'status'  => 'publish',
+    'slug'    => 'antigravity-setup'
 ];
 
 echo "Updating article ID $post_id via POST ...\n";
