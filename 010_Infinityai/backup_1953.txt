@@ -1,0 +1,75 @@
+<p>Antigravity へようこそ！<br />AI と一緒に最高の未来を創るための、最初の一歩をはんなりと案内するで。</p>
+<h4>1. ダウンロードとインストール</h4>
+<p>まずは公式サイト <a href="https://antigravity.google" target="_blank">https://antigravity.google</a> にアクセスしてな。</p>
+<p><img decoding="async" src="https://infinityai.mistystark.com/wp-content/uploads/2026/02/0010_Antigravity_bordered.png" alt="Antigravity Official Site" style="max-width:100%; height:auto; border-radius:8px; margin: 1rem 0; border: none;"></p>
+<ul>
+<li><strong>自分のPCに合ったものを選ぼう</strong>:
+<ul>
+<li>Mac の人は「リンゴマーク」からチップを確認（M1〜M4 なら Apple Silicon）。</li>
+<li>Windows の人は「x64」を選べば 100 億点満点や。</li>
+</ul>
+</li>
+<li><strong>上書きが基本！</strong>: 古いバージョンを持ってる人も、そのまま上書きインストールしてな。アンインストールは不要やで。</li>
+</ul>
+<p><img decoding="async" src="https://infinityai.mistystark.com/wp-content/uploads/2026/02/0020_Download_bordered.png" alt="Download Antigravity" style="max-width:100%; height:auto; border-radius:8px; margin: 1rem 0; border: none;"></p>
+<h4>2. 初心者が迷わない「3つの初期設定」</h4>
+<p>起動した後の英語画面、これを選べば間違いなしや！</p>
+<ul>
+<li><strong>① Choose setup flow</strong>:
+<ul>
+<li><strong>Start fresh</strong>: まっさらな状態で新しくセットアップを始める（初心者へのおすすめ度 100 億点満点や！）</li>
+<li><strong>Import from VS Code</strong>: VS Code の設定や拡張機能をガツンとお引越しする</li>
+<li><strong>Import from Cursor</strong>: Cursor の設定や拡張機能をはんなりと引き継ぐ</li>
+<li><strong>Use VS Code extensions</strong>: VS Code の拡張機能だけを個別に選んで使う</li>
+</ul>
+<p>ここは、迷わず <strong>『Start fresh』</strong> を選んでな。まっさらな状態で始めるのが一番スムーズや。</p>
+</li>
+</ul>
+<p><img decoding="async" src="https://infinityai.mistystark.com/wp-content/uploads/2026/02/0030_ChooseSetupFlow_v2_fixed.png" alt="Choose setup flow" style="max-width:100%; height:auto; border-radius:8px; margin: 1rem 0; border: none;"></p>
+<ul>
+<li><strong>② Theme</strong>: 好きなんでええけど、おすすめは <strong>『Tokyo Night』</strong>。未来的でテンション上がるで！</li>
+</ul>
+<p><img decoding="async" src="https://infinityai.mistystark.com/wp-content/uploads/2026/02/0040_Theme_fixed.png" alt="Choose an editor theme type" style="max-width:100%; height:auto; border-radius:8px; margin: 1rem 0; border: none;"></p>
+<ul>
+<li><strong>③ Agent設定</strong>:
+<p><strong>左側選択肢の説明</strong></p>
+<ul>
+<li><strong>Agent-driven development</strong>（AI主導開発）: AIが主体となってコードを書き進めるモード。自律的にガンガン動くプロ向けや！</li>
+<li><strong>Agent-assisted development</strong>（AIアシスト開発）: AIと相談しながら進めるバランス型。おすすめやで。</li>
+<li><strong>Review-driven development</strong>（レビュー主導開発）: AIが勝手に動く前に必ず確認を求めてくる。安心感が100億点満点や！</li>
+</ul>
+<p><strong>右側設定の説明</strong></p>
+<ul>
+<li><strong>Terminal execution policy</strong>（ターミナル実行ポリシー）: AIがコマンドを実行する時のルールや。
+<ul>
+<li><strong>Auto</strong>: AIが判断して自動でコマンドを実行する。作業がサクサク進むで。</li>
+<li><strong>Always require confirmation</strong>: コマンドを叩く前に毎回「ええか？」って聞いてくれる。慎重派の君におすすめや。</li>
+</ul>
+</li>
+<li><strong>Review policy</strong>（レビューポリシー）: AIの指示を人間がチェックする頻度や。
+<ul>
+<li><strong>Agent Decides</strong>: AIが「これは確認が必要や」と判断した時だけ聞いてくる。</li>
+<li><strong>Always Review</strong>: どんな小さな動きでも、必ず君の許可を求めてくるで。</li>
+</ul>
+</li>
+<li><strong>JavaScript execution policy</strong>（JavaScrit 実行ポリシー）: ブラウザ操作などで使うJavaScriptをどう扱うかや。
+<ul>
+<li><strong>Auto</strong>: 必要に応じてAIが自動で実行する。</li>
+<li><strong>Always require confirmation</strong>: 実行前に必ず確認のボタンが出るようになるわ。</li>
+</ul>
+</li>
+<li><strong>Use the default allowlist for the browser</strong>: 信頼できる有名サイトへのアクセスを最初から許可するかどうかの設定や。チェックを入れておくと、ブラウザを使った調べ物がスムーズになるで。</li>
+</ul>
+<p>ここはわからなければ <strong>『Review-driven development』</strong> を選択してな。AI が勝手に動く前に確認してくれるように促してくれるから、安心感が 100 億点満点や。右側もわからんかったらデフォルトのままでOKやで！</p>
+</li>
+</ul>
+<p><img decoding="async" src="https://infinityai.mistystark.com/wp-content/uploads/2026/02/0050_Agent_fixed.png" alt="How do you want to use the Antigravity Agent?" style="max-width:100%; height:auto; border-radius:8px; margin: 1rem 0; border: none;"></p>
+<h4>3. 日本語化の手順</h4>
+<p>やっぱり日本語が一番落ち着くもんな。</p>
+<ol>
+<li>左側の「四角いアイコン（Extensions）」を押す。</li>
+<li>「<strong>Japanese</strong>」で検索して、地球儀のアイコンのものを Install。</li>
+<li>右下の「Restart」ボタンを押せば、はんなりとした日本語画面の完成や！</li>
+</ol>
+<hr>
+<p>これだけで、君の PC は最新前線の AI 開発基地に早変わりや。<br />Misty と一緒に、最高の大発見を見つけにいこな！🍵</p>
