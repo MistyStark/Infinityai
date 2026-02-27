@@ -10,7 +10,8 @@ echo "Reverting article ID: $post_id to original state...\n";
 $post_data = [
     'title'   => $title,
     'content' => $content,
-    'status'  => 'publish'
+    'status'  => 'publish',
+    'slug'    => 'antigravityのインストール・初期設定手順'
 ];
 
 $result = wp_api_request("/posts/$post_id", 'POST', $post_data);

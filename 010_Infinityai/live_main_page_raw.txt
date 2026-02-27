@@ -1,0 +1,1035 @@
+<!-- wp:loos/columns {"colPC":"1","colTab":"1"} -->
+<div class="swell-block-columns" style="--clmn-w--pc:100%;--clmn-w--tab:100%"><div class="swell-block-columns__inner"><!-- wp:loos/column -->
+<div class="swell-block-column swl-has-mb--s"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l">AIと創造性の境界を探るアーティスト。 <br>未来のアートを一緒に体験しましょう。</span></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:loos/column --></div></div>
+<!-- /wp:loos/columns -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/cat-who-loves-green-peppers-001/">ピーマン好きのにゃんこ　―　Cat who loves green peppers　―</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1816,"mediaLink":"https://infinityai.mistystark.com/main/%e3%83%94%e3%83%bc%e3%83%9e%e3%83%b3%e5%a5%bd%e3%81%8d%e3%81%ae%e3%81%ab%e3%82%83%e3%82%93%e3%81%93_001_canva_a/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/cat-who-loves-green-peppers-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/07/ピーマン好きのにゃんこ_001_canva_A-742x1024.png" alt="" class="wp-image-1816 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>にゃんこが好物のピーマンに夢中！🐱<br>その愛らしい表情に癒されますね。🌶️<br>一緒にピーマンディナーを楽しむ日々が微笑ましい光景です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cats are crazy about their favorite food, green peppers! 🐱<br>You will be healed by its adorable expression. 🌶️<br>The days when we enjoy green pepper dinner together are a heartwarming sight.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/memories-of-summer-someday-001/">いつの日かの夏の思い出　―　Memories of summer someday　ー</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1738,"mediaLink":"https://infinityai.mistystark.com/memories-of-summer-someday-001/%e3%81%84%e3%81%a4%e3%81%ae%e6%97%a5%e3%81%8b%e3%81%ae%e5%a4%8f%e3%81%ae%e6%80%9d%e3%81%84%e5%87%ba_006/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/memories-of-summer-someday-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/07/いつの日かの夏の思い出_006.jpg" alt="" class="wp-image-1738 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>夕焼けに染まる海岸で遠い日のほろ苦い思い出が蘇る…。<br>カップルが語り合ういつかの夏の風景。<br>愛と切なさが交差する瞬間。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bittersweet memories of distant days come back to life on the shore bathed in the sunset.<br>A summer scene where couples talk about each other.<br>A moment when love and sadness intersect.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/animals-and-forest-made-with-clay-art-001/">クレイアートで作られた動物たちと森　－　Animals and forest made with clay art　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1659,"mediaLink":"https://infinityai.mistystark.com/animals-and-forest-made-with-clay-art-001/%e3%82%af%e3%83%ac%e3%82%a4%e3%82%a2%e3%83%bc%e3%83%88%e3%81%a7%e4%bd%9c%e3%82%89%e3%82%8c%e3%81%9f%e5%8b%95%e7%89%a9%e3%81%9f%e3%81%a1%e3%81%a8%e6%a3%ae_004/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/animals-and-forest-made-with-clay-art-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/06/クレイアートで作られた動物たちと森_004.jpg" alt="" class="wp-image-1659 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>動物たちと森のファンタジー世界✨<br>触れるとまるで本物のようなクレイ製動物たちが美しい森の中に佇んでいます。🌿<br>アート愛好家にはもちろん自然や動物が好きな方にも心躍る一枚です。🦉🌳</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A fantasy world of animals and forests✨<br>Clay animals that look real to the touch are nestled in a beautiful forest. 🌿<br>This piece is exciting not only for art lovers but also for those who love nature and animals. 🦉🌳</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：#Midjourney</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/black-cat-in-red-dress-001/">赤いドレスの黒猫　－　black cat in red dress　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1626,"mediaLink":"https://infinityai.mistystark.com/black-cat-in-red-dress-001/%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%81%aa%e9%bb%92%e7%8c%ab_010_canva_a/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/black-cat-in-red-dress-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/06/セクシーな黒猫_010_canva_A-1024x1024.png" alt="" class="wp-image-1626 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>美しい赤いドレスに身を包みセクシーなポーズを決める黒猫🐱<br>猫の妖艶な姿は目を奪われること間違いなし。✨🐾</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A black cat wearing a beautiful red dress and striking a sexy pose🐱<br>The cat's bewitching appearance is sure to catch your eye. ✨🐾</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：#Midjourney</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/dogs-that-require-a-lot-of-walking-and-feeding-costs-001/">散歩とエサ代が大変なわんこ　－Dogs that require a lot of walking and feeding costs－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1701,"mediaLink":"https://infinityai.mistystark.com/dogs-that-require-a-lot-of-walking-and-feeding-costs/%e5%b7%a8%e5%a4%a7%e7%8a%ac_004/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/dogs-that-require-a-lot-of-walking-and-feeding-costs-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/07/巨大犬_004.jpg" alt="" class="wp-image-1701 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>街のヒーロー参上！大きさも愛も特大サイズ。🐩<br>この子が通るとみんなが振り向くスーパースター犬です。✨🐶<br>お散歩とエサ代がちょっと大変だけどみんなに笑顔を届けるのが得意なんです！🐕</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The town hero has arrived! Both size and love are oversized. 🐩<br>This is a superstar dog that turns everyone's heads when he passes by. ✨🐶<br>It's a bit difficult to walk and feed him, but he's good at bringing smiles to everyone! 🐕</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/fluffy-creatures-001/">もふもふの生物　－　fluffy creatures　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1601,"mediaLink":"https://infinityai.mistystark.com/main/%e3%82%82%e3%81%b5%e3%82%82%e3%81%b5%e3%81%ae%e7%94%9f%e7%89%a9_002_trim_canva_a/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/fluffy-creatures-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/05/もふもふの生物_002_trim_canva_A-1024x1024.png" alt="" class="wp-image-1601 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>このもふもふの生き物はみんなで遊ぶのが大好き❤️<br>彼らはいつもにこにこしていて見ているだけで心が温かくなります💙<br>みんなと友達になりたがっているのでぜひ一緒に遊んであげてください！！</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This fluffy creature loves to play with everyone❤️<br>They are always smiling and just looking at them warms my heart💙<br>He wants to be friends with everyone, so please come and play with him!!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/cat-who-wants-to-be-a-penguin-001/">ペンギンになりたい猫　－　A cat who wants to be a penguin　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1531,"mediaLink":"https://infinityai.mistystark.com/cat-who-wants-to-be-a-penguin-001/%e3%83%9a%e3%83%b3%e3%82%ae%e3%83%b3%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%9f%e3%81%84%e7%8c%ab_002/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/cat-who-wants-to-be-a-penguin-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/05/ペンギンになりたい猫_002.jpg" alt="" class="wp-image-1531 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>まるっとした姿でペンギンを真似する愛らしい猫。🐱🐧<br>彼の夢はいつか大海原を泳ぐこと！⛵️</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An adorable cat that imitates a penguin with its plump appearance.🐱🐧<br>His dream is to swim in the ocean someday!⛵️</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/fox-and-butterfly-001/">キツネとチョウチョ　－　fox and butterfly　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1498,"mediaLink":"https://infinityai.mistystark.com/fox-and-butterfly-001/%e3%82%ad%e3%83%84%e3%83%8d%e3%81%a8%e8%9d%b6_001_gimp_a/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/fox-and-butterfly-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/05/キツネと蝶_001_GIMP_A.png" alt="" class="wp-image-1498 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>愛らしいキツネとチョウチョが仲良く遊んでいる姿がとてもキュート♡<br>自然の中で楽しいひとときを過ごしているようです♪<br>ぜひこの可愛さをお楽しみください🦊🦋</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The adorable fox and butterfly playing together is so cute ♡<br>Looks like they are having a great time in nature♪<br>Please enjoy this cuteness🦊🦋</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/bird-that-resembles-a-fruit-001/">フルーツに似てしまった鳥さん　－　A bird that resembles a fruit　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1451,"mediaLink":"https://infinityai.mistystark.com/bird-that-resembles-a-fruit-001/%e3%83%9e%e3%83%b3%e3%82%b4%e3%83%bc%e4%bc%bc%e3%81%9f%e9%b3%a5_002/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/bird-that-resembles-a-fruit-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/05/マンゴー似た鳥_002.jpg" alt="" class="wp-image-1451 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>フルーツを食べ過ぎてまるでフルーツのようになっちゃったお鳥さんたち。🐦🥭<br>可愛い過ぎるハプニング💛<br>なんのフルーツか考えてみてくださいね。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Birds eat too much fruit and end up looking like fruit. 🐦🥭<br>Too cute happening💛<br>Please think about what kind of fruit it is.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/cat-sleeping-on-a-cloud-001/">雲の上で眠るネコ　－　cat sleeping on a cloud　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1429,"mediaLink":"https://infinityai.mistystark.com/main/%e9%9b%b2%e3%81%ae%e4%b8%8a%e3%81%a7%e7%9c%a0%e3%82%8b%e3%83%8d%e3%82%b3_001-1/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/cat-sleeping-on-a-cloud-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/05/雲の上で眠るネコ_001-1-1024x574.jpg" alt="" class="wp-image-1429 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>満天の星と月に見守られ雲の上で安らかに眠るネコ。🐱<br>夢のような世界でまるで絵本の一ページのような心温まる光景です。🌙⭐️</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A cat sleeping peacefully on a cloud, watched over by a sky full of stars and the moon.🐱<br>It's a heartwarming scene that feels like a page from a picture book in a dream-like world.🌙⭐️<br><br>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/blue-mage-001/">青魔道士　－　blue mage　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1370,"mediaLink":"https://infinityai.mistystark.com/blue-mage-001/%e5%a5%b3%e6%80%a7%e9%9d%92%e9%ad%94%e9%81%93%e5%a3%ab_003/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/blue-mage-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/05/女性青魔道士_003.jpg" alt="" class="wp-image-1370 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>美しい女性青魔導士が輝く杖から放つ蒼い炎を描いた作品。まるで魔法の世界から抜け出したような神秘的な一瞬を切り取ったイラストです。✨🔮✨</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A work depicting blue flames emitted from a shining staff by a beautiful female blue mage. This is an illustration that captures a mysterious moment, as if you have stepped out of a magical world. ✨🔮✨</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/dinosaur-that-pops-out-001/">飛び出す恐竜　－　dinosaur that pops out　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1336,"mediaLink":"https://infinityai.mistystark.com/dinosaur-that-pops-out-001/%e9%a3%9b%e3%81%b3%e5%87%ba%e3%81%99%e6%81%90%e7%ab%9c_008/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/dinosaur-that-pops-out-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/05/飛び出す恐竜_008.jpg" alt="" class="wp-image-1336 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>驚くべき恐竜の世界が絵画からリアルに飛び出してきた！<br>恐竜好きにはたまらない！！🦕🎨✨</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The amazing world of dinosaurs has jumped out from the painting into reality!<br>Irresistible for dinosaur lovers! ! 🦕🎨✨</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/treasurehunter-001/">トレジャーハンター　－　TreasureHunter　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1321,"mediaLink":"https://infinityai.mistystark.com/main/%e3%83%88%e3%83%ac%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8f%e3%83%b3%e3%82%bf%e3%83%bc_021_seaart_%e3%82%b8%e3%83%96%e3%83%aa%e9%a2%a8_a_canva_a-1/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/treasurehunter-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/05/トレジャーハンター_021_seaart_ジブリ風_A_canva_A-1-1024x574.png" alt="" class="wp-image-1321 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>トレジャーハンターがゴールデンスカルを求めて冒険。☠️💀<br>ついに探していたゴールデンスカルをてにいれた。✨💀☠️</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A treasure hunter goes on an adventure in search of the Golden Skull. ☠️💀<br>I finally found the Golden Skull I was looking for. ✨💀☠️</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/animal-bananaboat-001/">動物たちのバナナボート　－　animal banana boat　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1257,"mediaLink":"https://infinityai.mistystark.com/animal-bananaboat-001/%e5%8b%95%e7%89%a9%e3%81%9f%e3%81%a1%e3%81%ae%e3%83%90%e3%83%8a%e3%83%8a%e3%83%9c%e3%83%bc%e3%83%88_016/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/animal-bananaboat-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/05/動物たちのバナナボート_016-1024x574.jpg" alt="" class="wp-image-1257 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>かわいい動物たちが青い海と青い空の下で楽しそうにバナナボートに乗っていいます🍌💦🐒<br>この楽しい光景をぜひチェック！<br><br>Cute animals are happily riding on a banana boat under the blue sea and blue sky 🍌💦🐒</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/tuna-fishing-001/">マグロ漁　－　tuna fishing　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1223,"mediaLink":"https://infinityai.mistystark.com/tuna-fishing-001/%e3%83%9e%e3%82%b0%e3%83%ad%e6%bc%81_002/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/tuna-fishing-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/05/マグロ漁_002.jpg" alt="" class="wp-image-1223 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>マグロ漁の臨場感満載のダイナミックなシーン。<br>エネルギッシュな船員と荒れた海の息を飲む美しさ。<br>漁師とマグロの真剣勝負。🎣🐟</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/cat-mission-001/">猫ミッション　－　cat mission　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1192,"mediaLink":"https://infinityai.mistystark.com/cat-mission-001/%e3%83%9f%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%a4%e3%83%b3%e3%83%9d%e3%83%83%e3%82%b7%e3%83%96%e3%83%ab_015/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/cat-mission-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/05/ミッションインポッシブル_015.jpg" alt="" class="wp-image-1192 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>猫のミッションはまさに命がけ！🐱🐾<br>ミッション完了した猫の姿をお楽しみください。💥</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/cute-pirates-001/">かわいい海賊たち　－　cute pirates　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1165,"mediaLink":"https://infinityai.mistystark.com/cute-pirates-001/%e3%81%8b%e3%82%8f%e3%81%84%e3%81%84%e6%b5%b7%e8%b3%8a%e3%81%9f%e3%81%a1_012_canva_b/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/cute-pirates-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/05/かわいい海賊たち_012_canva_B-1024x1024.png" alt="" class="wp-image-1165 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>かわいいパイレーツたちが登場！<br>仲間と一緒に大航海の旅に出発！<br>この海賊王たちは海原を駆け巡り冒険心をくすぐる船旅を楽しんでいます。🏴‍☠️☠️⚓️<br><br>画像生成AI：Midjourney<br>加工ツール：canva<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/steamboat-001/">蒸気船　－　steamboat　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1120,"mediaLink":"https://infinityai.mistystark.com/steamboat-001/%e8%92%b8%e6%b0%97%e8%88%b9_008_canva_a/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/steamboat-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/04/蒸気船_008_canva_A-1024x574.png" alt="" class="wp-image-1120 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>迫力のある女性ガンマンが登場！<br>ウェスタン映画から抜け出したような雰囲気。<br>彼女たちをウォンテッド！</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>加工ツール：canva<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/cowgirl-001/">カウガール　－　cowgirl　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1106,"mediaLink":"https://infinityai.mistystark.com/cowgirl-001/%e5%a5%b3%e6%80%a7%e3%82%ab%e3%82%a6%e3%82%ac%e3%83%bc%e3%83%ab_%e3%82%ac%e3%83%b3%e3%83%9e%e3%83%b3_901_canva_a_trim_a_canva_a/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/cowgirl-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/04/女性カウガール_ガンマン_901_canva_A_trim_A_canva_A-1024x620.png" alt="" class="wp-image-1106 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>迫力のある女性ガンマンが登場！<br>ウェスタン映画から抜け出したような雰囲気。<br>彼女たちをウォンテッド！</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>加工ツール：canva<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/venice-scenery-001/">ヴェニスの風景　－　venice scenery　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1052,"mediaLink":"https://infinityai.mistystark.com/venice-scenery-001/%e3%83%b4%e3%82%a7%e3%83%8b%e3%82%b9%e3%81%ae%e9%a2%a8%e6%99%af_003/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/venice-scenery-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/04/ヴェニスの風景_003.jpg" alt="" class="wp-image-1052 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>イタリアのヴェニスで撮影された美しい風景をお届け🌊<br>水に映る色とりどりの建物や船が行き交う様子にうっとり😍<br>ロマンチックな雰囲気が漂うこの場所にぜひ憧れの旅を✈️</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/girl-and-camel-001/" target="_blank" rel="noreferrer noopener">少女とラクダ　－　girl and camel　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":1019,"mediaLink":"https://infinityai.mistystark.com/girl-and-camel-001/%e5%b0%91%e5%a5%b3%e3%81%a8%e3%83%a9%e3%82%af%e3%83%80_002/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/girl-and-camel-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/04/少女とラクダ_002.jpg" alt="" class="wp-image-1019 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>広大な砂漠を旅するかわいい少女とラクダの心温まるシーンです。<br>一緒に冒険する二人の絆が見る人の心を温かく包みます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/penguin-commando-001/">ペンギンコマンド　－　Penguin Commando　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":990,"mediaLink":"https://infinityai.mistystark.com/penguin-commando-001/20240310_007_i_will_protect_the_world_001/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/penguin-commando-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/04/20240310_007_I_will_protect_the_world_001-1024x1024.png" alt="" class="wp-image-990 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>ペンギンが特殊部隊として活躍する冒険の物語が始まります。<br>一味違うアクションや緊迫感あふれるミッションに挑戦しましょう。<br>ペンギンの新たな冒険があなたを待っています！🐧✨</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>加工ツール：CANVA<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/marital-quarrel-001/">夫婦喧嘩　－　marital quarrel　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":948,"mediaLink":"https://infinityai.mistystark.com/marital-quarrel-001/20240313_012_%e5%a4%ab%e5%a9%a6%e5%96%a7%e5%98%a9_002/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/marital-quarrel-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/04/20240313_012_夫婦喧嘩_002.jpg" alt="" class="wp-image-948 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>実はラブラブな夫婦がボクシングでお互いに気持ちをぶつけあうシュールなイラスト。<br>何でも話し合える仲なのが伝わる?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/beaver-dam-construction-001/">ビーバーのダム建設　－　beaver dam construction　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":850,"mediaLink":"https://infinityai.mistystark.com/beaver-dam-construction-001/%e3%83%80%e3%83%a0%e5%bb%ba%e8%a8%ad%e7%8f%be%e5%a0%b4%e3%81%ae%e3%83%93%e3%83%bc%e3%83%90%e3%83%bc_016/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/beaver-dam-construction-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/04/ダム建設現場のビーバー_016.jpg" alt="" class="wp-image-850 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>ダム建設現場の新星！<br>キュートなビーバーが活躍中♫<br>ハードハット姿がまるでミニ建設士！<br>施工中の様子は必見♪</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/steam-locomotive-001/">蒸気機関車　－　steam locomotive　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":811,"mediaLink":"https://infinityai.mistystark.com/steam-locomotive-001/%e8%92%b8%e6%b0%97%e6%a9%9f%e9%96%a2%e8%bb%8a_002/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/steam-locomotive-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/04/蒸気機関車_002.jpg" alt="" class="wp-image-811 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>蒸気機関車　－　steam locomotive　－</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>蒸気機関車の迫力満点！歴史と技術が融合した魅力</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/mountain-stream-fishing-001/">渓流釣り　－　mountain stream fishing　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":789,"mediaLink":"https://infinityai.mistystark.com/mountain-stream-fishing-001/%e6%b8%93%e6%b5%81%e9%87%a3%e3%82%8a_001/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/mountain-stream-fishing-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/04/渓流釣り_001.jpg" alt="" class="wp-image-789 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>釣り竿を握りしめ清々しい渓流のそばに立つ。<br>静けさの中心地よい風が頬をなでる。<br>この絶好の瞬間を満喫しよう！🎣🌿✨</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/huge-heavy-equipment-001/">巨大重機　－　huge heavy equipment　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":731,"mediaLink":"https://infinityai.mistystark.com/huge-heavy-equipment-001/%e3%83%80%e3%83%b3%e3%83%97%e3%83%88%e3%83%a9%e3%83%83%e3%82%af_001/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/huge-heavy-equipment-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/04/ダンプトラック_001-1024x574.jpg" alt="" class="wp-image-731 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>究極の力を持つ重機たちが集結！<br>巨大な機械たちがカッコよく並んでいます。<br>建設現場や工事現場で大活躍中の重機たちをぜひチェック！💪🚧✨</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/astronaut-in-mech-suit-001/">メカスーツの宇宙飛行士　－　astronaut in mech suit　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":702,"mediaLink":"https://infinityai.mistystark.com/astronaut-in-mech-suit-001/%e3%83%a1%e3%82%ab%e3%82%b9%e3%83%bc%e3%83%84%e3%81%ae%e5%ae%87%e5%ae%99%e9%a3%9b%e8%a1%8c%e5%a3%ab_007/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/astronaut-in-mech-suit-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/04/メカスーツの宇宙飛行士_007.jpg" alt="" class="wp-image-702 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>星々がきらめく宇宙の彼方でメカスーツを身にまとった宇宙飛行士が宇宙遊泳中！<br>エキサイティングな未来を感じさせるシーンです。🚀✨</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/girl-and-dandelion-001/">少女とタンポポ　－　girl and dandelion　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":665,"mediaLink":"https://infinityai.mistystark.com/girl-and-dandelion-001/%e5%b0%91%e5%a5%b3%e3%81%a8%e3%82%bf%e3%83%b3%e3%83%9d%e3%83%9d_011/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/girl-and-dandelion-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/04/少女とタンポポ_011.jpg" alt="" class="wp-image-665 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>風に揺れる少女の髪と一面に広がるタンポポ。<br>青空の下で白い綿毛が風に乗って旅に出ます。☁️🌼</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/town-chinese-food-001/">町中華　－　Town Chinese food　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":635,"mediaLink":"https://infinityai.mistystark.com/town-chinese-food-001/%e4%b8%ad%e8%8f%af%e9%8d%8b%e3%82%92%e3%81%b5%e3%82%8b%e8%aa%bf%e7%90%86%e4%ba%ba_006/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/town-chinese-food-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/04/中華鍋をふる調理人_006.jpg" alt="" class="wp-image-635 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>町中華の魅力満載！<br>新鮮な食材で作られた中華料理が登場🔥<br>火力全開でおいしさ満点！<br>一緒に楽しむ時間がますます特別なものに✨</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/cat-fish-coralreef-001/">猫と魚とサンゴ礁　－　cat fish coral reef　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":600,"mediaLink":"https://infinityai.mistystark.com/cat-fish-coralreef-001/%e3%81%8b%e3%82%8f%e3%81%84%e3%81%84%e7%8c%ab%e3%81%9f%e3%81%a1%e3%81%ae%e6%b5%b7%e4%b8%ad%e5%a4%a7%e5%86%92%e9%99%ba_008/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/cat-fish-coralreef-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/04/かわいい猫たちの海中大冒険_008.jpg" alt="" class="wp-image-600 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>優雅な泳ぎを見せる猫と色とりどりの魚たち。<br>プラナリアを追いかけたり遊び心満載。<br>波に乗せられるように揺らめくサンゴ礁まるで幻想の中を漂っているかのよう。🐱🐠🌊</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/surfing-001/" target="_blank" rel="noreferrer noopener">サーフィン　－　surfing　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":529,"mediaLink":"https://infinityai.mistystark.com/surfing-001/%e3%82%b5%e3%83%bc%e3%83%95%e3%82%a3%e3%83%b3_011/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/surfing-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/03/サーフィン_011.jpg" alt="" class="wp-image-529 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>波乗りのアクションを楽しむサーファー。<br>大波をスタイリッシュに乗りこなしかっこいいポーズを決める様子が鮮やかに描かれています。<br>まるで波と一体となったようなその姿は圧巻！</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/cute-ninja-001/">かわいい忍者　－　cute ninja　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":480,"mediaLink":"https://infinityai.mistystark.com/cute-ninja-001/%e3%81%8b%e3%82%8f%e3%81%84%e3%81%84%e5%bf%8d%e8%80%85_011_gimp_a_canva_a/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/cute-ninja-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/03/かわいい忍者_011_GIMP_A_canva_A.png" alt="" class="wp-image-480 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>かわいい忍者が風に舞う桜の花びらとともに瞬きもせずに立ち向かっている姿が魅力的✨</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>加工ツール：CANVA<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/riverbed-at-sunset-001/">夕焼けの河川敷　－　Riverbed at sunset　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":457,"mediaLink":"https://infinityai.mistystark.com/riverbed-at-sunset-001/%e5%a4%95%e7%84%bc%e3%81%91%e3%81%ae%e6%b2%b3%e5%b7%9d%e6%95%b7_006/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/riverbed-at-sunset-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/03/夕焼けの河川敷_006.jpg" alt="" class="wp-image-457 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>夕焼けに染まる美しい河川敷で風に髪をなびかせながら自転車で帰宅する少女。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><a href="https://infinityai.mistystark.com/sumo-match-001/"><span class="swl-fz u-fz-l">相撲の立ち合い　－　Sumo match　－</span></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":437,"mediaLink":"https://infinityai.mistystark.com/sumo-match-001/%e7%9b%b8%e6%92%b2%e3%81%ae%e7%ab%8b%e3%81%a1%e5%90%88%e3%81%84_004/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/sumo-match-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/03/相撲の立ち合い_004.jpg" alt="" class="wp-image-437 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>力強い瞬間！<br>白熱した大相撲の立ち合い！<br>巨漢たちが土俵で激しくぶつかり合う迫力満点のシーン。<br>闘志満々の力士たちは一瞬の隙もなし！</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><a href="https://infinityai.mistystark.com/cute-dinosaur-001/"><span class="swl-fz u-fz-l">かわいい恐竜　－　cute dinosaur　－</span></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":384,"mediaLink":"https://infinityai.mistystark.com/cute-dinosaur-001/%e3%81%8b%e3%82%8f%e3%81%84%e3%81%84%e6%81%90%e7%ab%9c_002/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/cute-dinosaur-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/03/かわいい恐竜_002.jpg" alt="" class="wp-image-384 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>銀色の月夜に優雅に舞う桜の花びら。 <br>ひらひらと舞い落ちるその姿はまるで優美なダンスのよう。<br>神秘的な雰囲気が漂う美しい風景。🌸✨</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><a href="https://infinityai.mistystark.com/penguins-walk-001/"><span class="swl-fz u-fz-l">ペンギン達のお散歩　－　Penguins' walk　－</span></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":355,"mediaLink":"https://infinityai.mistystark.com/penguins-walk-001/%e3%83%9a%e3%83%b3%e3%82%ae%e3%83%b3%e8%a1%8c%e9%80%b2_004/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/penguins-walk-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/03/ペンギン行進_004-701x1024.jpg" alt="" class="wp-image-355 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>銀色の月夜に優雅に舞う桜の花びら。 <br>ひらひらと舞い落ちるその姿はまるで優美なダンスのよう。<br>神秘的な雰囲気が漂う美しい風景。🌸✨</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：seaart.ai<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/maidens-sleep-001/">乙女の眠り　－　maiden's sleep　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":320,"mediaLink":"https://infinityai.mistystark.com/maidens-sleep-001/%e6%98%a5%e7%9c%a0%e6%9a%81%e3%82%92%e8%a6%9a%e3%81%88%e3%81%9a_001/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/maidens-sleep-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/03/春眠暁を覚えず_001.jpg" alt="" class="wp-image-320 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>乙女の眠り💗まるで夢の中に迷い込んだかのような感覚に包まれる。深く静かな美しさが心を満たす瞬間。✨🌌</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/duel-of-skeletons-001/">骸骨たちの決闘　－　duel of skeletons　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":299,"mediaLink":"https://infinityai.mistystark.com/duel-of-skeletons-001/%e9%aa%b8%e9%aa%a8%e3%81%9f%e3%81%a1%e3%81%ae%e6%b1%ba%e9%97%98_002/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/duel-of-skeletons-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/03/骸骨たちの決闘_002.jpg" alt="" class="wp-image-299 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>骸骨たちの壮絶な決闘の瞬間！！💀　勝利の行方は一体どちらへ？🔥</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/adventures-of-the-duck-family-001/">鴨親子たちの冒険　－　The adventures of the duck family　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":289,"mediaLink":"https://infinityai.mistystark.com/adventures-of-the-duck-family-001/%e3%81%8b%e3%82%8f%e3%81%84%e3%81%84%e9%b4%a8%e3%81%ae%e3%81%8a%e5%bc%95%e8%b6%8a%e3%81%97_005/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/adventures-of-the-duck-family-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/03/かわいい鴨のお引越し_005.jpg" alt="" class="wp-image-289 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>可愛らしい鴨の親子が冒険中。親子愛が感じられる素敵なシーンです。🦆👪✨</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/mermaid-001/">マーメイド　－　mermaid　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":270,"mediaLink":"https://infinityai.mistystark.com/mermaid-001/%e3%81%8d%e3%82%8c%e3%81%84%e3%81%aa%e4%ba%ba%e9%ad%9a%e5%a7%ab%e3%81%a8%e3%81%8b%e3%82%8f%e3%81%84%e3%81%84%e9%ad%9a%e3%81%9f%e3%81%a1_%e3%82%b5%e3%83%b3%e3%82%b4%e7%a4%81_001-1/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/mermaid-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/03/きれいな人魚姫とかわいい魚たち_サンゴ礁_001-1.jpg" alt="" class="wp-image-270 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>サンゴ礁の色とりどりの美しい景色の中でかわいいマーメイドがかわいい魚たちと一緒に楽しい時間を過ごしています。✨🧜‍♀️🐠</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/giant-space-battleship-001/">巨大宇宙戦艦　－　giant space battleship　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":227,"mediaLink":"https://infinityai.mistystark.com/giant-space-battleship-001/%e8%b6%85%e5%b7%a8%e5%a4%a7%e5%ae%87%e5%ae%99%e6%88%a6%e8%89%a6_006/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/giant-space-battleship-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/03/超巨大宇宙戦艦_006.jpg" alt="" class="wp-image-227 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>宇宙戦艦が雲をかき分けて発進！<br>宇宙の冒険に出かけるワクワク感が満載です。<br>一緒に宇宙の果てへ旅立ちませんか？✨🚀</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/robot-wars-001/">ロボット大戦　－　robot wars　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":127,"mediaLink":"https://infinityai.mistystark.com/robot-wars-001/%e3%83%ad%e3%83%9c%e3%83%83%e3%83%88%e5%a4%a7%e6%88%a6_900_canva_a_trim_canva_a/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/robot-wars-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/03/ロボット大戦_900_canva_A_TRIM_canva_A-1024x512.png" alt="" class="wp-image-127 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>圧倒的なロボットたちが繰り広げる壮絶なバトル！<br>テクノロジーの力と熱い魂がぶつかり合う未来世界の戦いに君も参戦せよ！🤖💥</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/animal-kids-soccer-001/">動物の子供たちのサッカー　－　animal kids soccer　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":90,"mediaLink":"https://infinityai.mistystark.com/animal-kids-soccer-001/%e5%8b%95%e7%89%a9%e3%81%ae%e5%ad%90%e4%be%9b%e3%81%9f%e3%81%a1%e3%81%ae%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc_002/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/animal-kids-soccer-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/03/動物の子供たちのサッカー_002.jpg" alt="" class="wp-image-90 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>かわいいい動物の子供たちがサッカーを楽しんでいます！！🐶🐰🦁</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><a href="https://infinityai.mistystark.com/parkour-grandma-001/"><span class="swl-fz u-fz-l">パルクールばあちゃん　－　parkour grandma　－</span></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":200,"mediaLink":"https://infinityai.mistystark.com/parkour-grandma-001/%e3%83%91%e3%83%ab%e3%82%af%e3%83%bc%e3%83%ab%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%81%8a%e3%81%b0%e3%81%82%e3%81%a1%e3%82%83%e3%82%93_006/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/parkour-grandma-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/03/パルクールしているおばあちゃん_006.jpg" alt="" class="wp-image-200 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>ノッてるおばあちゃん！<br>どんな障害もかわいらしくクリアするエネルギッシュな<br>おばあちゃんとのパルクールショット！！💪👵✨</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><a href="https://infinityai.mistystark.com/waterfall-001/"><span class="swl-fz u-fz-l">滝　－　waterfall　－</span></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":168,"mediaLink":"https://infinityai.mistystark.com/waterfall-001/%e6%bb%9d_009/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/waterfall-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/03/滝_009-344x1024.jpg" alt="" class="wp-image-168 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>日本の滝のイラスト</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><a href="https://infinityai.mistystark.com/cherry-blossoms-001/"><span class="swl-fz u-fz-l">月夜に舞う桜吹雪　－　A blizzard of cherry blossoms dancing on a moonlit night　－</span></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":44,"mediaLink":"https://infinityai.mistystark.com/animal-kids-soccer-001/%e6%9c%88%e5%a4%9c%e3%81%ab%e8%88%9e%e3%81%86%e6%a1%9c%e5%90%b9%e9%9b%aa_003-1/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/cherry-blossoms-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/03/月夜に舞う桜吹雪_003-1.jpg" alt="" class="wp-image-44 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>銀色の月夜に優雅に舞う桜の花びら。 <br>ひらひらと舞い落ちるその姿はまるで優美なダンスのよう。<br>神秘的な雰囲気が漂う美しい風景。🌸✨</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：Midjourney<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInRight slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInRight slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/sunset-sea-and-woman-001/" target="_blank" rel="noreferrer noopener">夕焼けの海と女性　－　sunset sea and woman　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":913,"mediaLink":"https://infinityai.mistystark.com/sunset-sea-and-woman-001/%e5%a4%95%e7%84%bc%e3%81%91%e3%81%ab%e3%81%9f%e3%81%9f%e3%81%9a%e3%82%80%e5%a5%b3%e6%80%a7016/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/sunset-sea-and-woman-001/" target="_blank" rel="noreferrer noopener"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/04/夕焼けにたたずむ女性016.jpg" alt="" class="wp-image-913 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>夕焼けの海辺にたたずむ女性。<br>黒いシルエットが美しく<br>風になびくドレスと髪が幻想的な光景。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：vrew<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-bg_stripe animated bounceInLeft slower","backgroundColor":"swl-pale-04","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-bg_stripe animated bounceInLeft slower has-swl-pale-04-background-color has-background"><!-- wp:paragraph -->
+<p><span class="swl-fz u-fz-l"><a href="https://infinityai.mistystark.com/woman-drinking-beer-001/">ビールを飲む女性　－　woman drinking beer　－</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":875,"mediaLink":"https://infinityai.mistystark.com/woman-drinking-beer-001/%e7%84%a1%e9%a1%8c%e5%8b%95%e7%94%bb1_19/","linkDestination":"custom","mediaType":"image","mediaWidth":30,"verticalAlignment":"center","imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><a href="https://infinityai.mistystark.com/woman-drinking-beer-001/"><img src="https://infinityai.mistystark.com/wp-content/uploads/2024/04/無題動画1_19-1024x867.jpg" alt="" class="wp-image-875 size-full"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>この魅力的な昭和レトロなビールポスターは若くて美しい日本人女性が鮮やかな色彩で描かれています。<br>彼女の魅力的な笑顔と品のある姿は時代を彷彿させる雰囲気を醸し出しています。<br>このポスターは昭和時代によく見かけたビールのプロモーションにインスピレーションを得ています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>画像生成AI：vrew<br>動画生成AI：Gen‑2</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
